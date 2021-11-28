@@ -1,0 +1,11 @@
+.btn-twitch{
+    background-color: rgb(91, 20, 203);
+    padding: 20px 25px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 80px;
+}
